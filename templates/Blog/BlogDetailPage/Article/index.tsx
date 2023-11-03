@@ -34,7 +34,7 @@ const Article = ({}: ArticleProps) => (
             </h5>
             <p>
             Tesseract is the one stop marketplace for discovering state of the art Generative AI models.
-            <p>
+            <p/>
                 Ratione earum minus quia consectetur debitis magnam. Ex nemo
                 maiores reiciendis distinctio. Cupiditate nihil doloribus
                 repellat voluptatem.
