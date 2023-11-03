@@ -7,7 +7,7 @@ import Item from "./Item";
 
 const list = [
     {
-        title: "QR generator",
+        title: "QR Generator",
         collection: "qr2AI",
         price: "2434",
         reserve: "qrv2-gen",
@@ -22,12 +22,12 @@ const list = [
         image: "/images/astronaut-horse.jpg",
     },
     {
-        title: "The creator network.",
-        collection: "Escape III",
-        price: "5.4 ETH",
-        reserve: "1.45 ETH",
-        image: "/images/auction-pic-2.jpg",
-        color: "#B9A9FB",
+        title: "Super Resolution",
+        collection: "SR-HD Image",
+        price: "547",
+        reserve: "image2sr",
+        image: "/images/scale-ai.png",
+        color: "#b9fba9",
     },
 ];
 
@@ -41,7 +41,7 @@ const Main = ({}: MainProps) => (
     <>
         <div className={styles.row}>
             <div className={styles.col}>
-                <h1 className={cn("hero", styles.title)}>AI Exchange</h1>
+                <h1 className={cn("hero", styles.title)}>AI Model Exchange</h1>
                 <Arrow className={styles.arrow} />
             </div>
             <div className={styles.col}>
