@@ -46,7 +46,7 @@ const provenance = [
         history: true,
         content: (
             <>
-                Minted by <span>@randomdash</span>
+                Minted by <span>@tron77</span>
             </>
         ),
         date: "Aug 18, 2022 at 18:80",

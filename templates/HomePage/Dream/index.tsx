@@ -18,7 +18,7 @@ const Dream = ({}: DreamProps) => (
                             alt="Avatar"
                         />
                     </div>
-                    @randomdash
+                    @tron77
                 </div>
                 <div className={styles.item}>
                     <div className={styles.image}>
@@ -32,7 +32,7 @@ const Dream = ({}: DreamProps) => (
                     Escape
                 </div>
             </div>
-            <div className={cn("h1", styles.title)}>Beyond the Dream.</div>
+            <div className={cn("h1", styles.title)}>MPT-7B</div>
             <div className={styles.line}>
                 <div className={styles.box}>
                     <div className={styles.text}>Buy now price</div>

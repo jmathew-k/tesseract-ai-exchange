@@ -9,7 +9,7 @@ type CreativityProps = {};
 const Creativity = ({}: CreativityProps) => (
     <div className={styles.creativity}>
         <div className={styles.head}>
-            <div className={cn("h1", styles.title)}>Own your creativity.</div>
+            <div className={cn("h1", styles.title)}>Infinite Garden for GenAI</div>
             <div className={styles.info}>
                 Each web3 community is unique and deserves a custom marketplace
                 with its own look, features, fees.
