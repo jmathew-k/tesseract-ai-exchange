@@ -26,7 +26,7 @@ const Profile = ({}: ProfileProps) => {
 
     const actions = [
         {
-            title: "Total sales",
+            title: "Total runs",
             value: "total-sales",
             counter: "96 ETH",
         },

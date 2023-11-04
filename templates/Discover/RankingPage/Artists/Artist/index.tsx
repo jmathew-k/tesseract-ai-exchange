@@ -26,7 +26,7 @@ const Artist = ({ item, index }: ArtistProps) => {
                     <div className={styles.details}>
                         <div className={styles.name}>{item.name}</div>
                         <div className={styles.sale}>
-                            Total sale <span>{item.sale}</span>
+                        Total runs <span>{item.sale}</span>
                         </div>
                     </div>
                 </div>

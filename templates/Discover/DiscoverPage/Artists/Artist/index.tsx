@@ -23,7 +23,7 @@ const Artist = ({ item }: ArtistProps) => {
             <div className={styles.details}>
                 <div className={styles.login}>@{item.login}</div>
                 <div className={styles.price}>
-                    Total sale <span>{item.price}</span>
+                Total runs<span>{item.price}</span>
                 </div>
             </div>
             <button

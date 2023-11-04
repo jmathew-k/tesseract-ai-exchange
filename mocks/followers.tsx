@@ -1,7 +1,7 @@
 export const followers = [
     {
-        name: "Dash",
-        login: "randomdash",
+        name: "Tron",
+        login: "tron77",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
         follow: false,
@@ -9,8 +9,8 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Katzgg",
+        login: "Katz2",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 NFTs",
         follow: false,

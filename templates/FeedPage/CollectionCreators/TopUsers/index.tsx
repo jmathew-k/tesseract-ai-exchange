@@ -40,7 +40,7 @@ const TopUsers = ({ className, title, items }: TopUsersProps) => (
                                 </div>
                             </div>
                             <div className={styles.box}>
-                                <div className={styles.text}>Total sale</div>
+                                <div className={styles.text}>Total runs</div>
                                 <div className={styles.sale}>{item.sale}</div>
                             </div>
                         </div>

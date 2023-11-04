@@ -1,12 +1,12 @@
 export const artists = [
     {
-        login: "randomdash",
+        login: "tron77",
         avatar: "/images/artists/artist-1.jpg",
         price: "12.29 ETH",
         follow: false,
     },
     {
-        login: "kohaku",
+        login: "Katzgg",
         avatar: "/images/artists/artist-6.jpg",
         price: "12.29 ETH",
         follow: false,
@@ -49,7 +49,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
+        name: "Katz2",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",

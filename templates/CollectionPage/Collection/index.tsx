@@ -27,7 +27,7 @@ const detailsList = [
         value: "-",
     },
     {
-        label: "Total sales",
+        label: "Total runs",
         value: "-",
     },
 ];

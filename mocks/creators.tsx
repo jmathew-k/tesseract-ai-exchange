@@ -1,7 +1,7 @@
 export const creators = [
     {
-        name: "Dash",
-        login: "randomdash",
+        name: "Tron",
+        login: "tron77",
         sale: "2.00 ETH",
         avatar: "/images/artists/artist-1.jpg",
         url: "/profile",
