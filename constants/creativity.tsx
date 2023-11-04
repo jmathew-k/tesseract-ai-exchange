@@ -3,20 +3,19 @@ export const creativity = [
         content: (
             <>
                 <h2>
-                    Your Collection, <br></br>your way.
+                    Your model, <br></br>your way.
                 </h2>
                 <p>
-                    In web3, artists are taking back ownership and control over
+                    In Gen AI, artists are taking back ownership and control over
                     their creativity. All collections on Tesseract are
                     creator-owned smart contracts that will stand the test of
                     time.
                 </p>
                 <ul>
                     <li>
-                        You’ll earn a 10% royalty for all secondary market
-                        sales.
+                        You’ll earn for every API call of your model
                     </li>
-                    <li>Creativity is valuable on Tesseract</li>
+                    <li>Platform offers high-end GPUs for model inferencing</li>
                 </ul>
             </>
         ),
@@ -27,10 +26,10 @@ export const creativity = [
         content: (
             <>
                 <h2>
-                    Lowest <br></br>mint fees
+                    Lowest <br></br>GPU fees
                 </h2>
                 <p>
-                    Minting an NFT is like adding your signature to a painting.
+                    Scalable Inference Infra is critical for seamless experience.
                     Make your mark in web3 with works that are emblematic of
                     your creative practice.
                 </p>

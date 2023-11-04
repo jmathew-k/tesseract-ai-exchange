@@ -9,7 +9,7 @@ const Details = ({}: DetailsProps) => (
     <div className={styles.details}>
         <div className={styles.row}>
             <div className={styles.col}>
-                <div className={styles.label}>Model Runs</div>
+                <div className={styles.label}>Total Runs</div>
                 <div className={cn("h4", styles.value)}></div>
                 <Link href="/buy-now">
                     <a

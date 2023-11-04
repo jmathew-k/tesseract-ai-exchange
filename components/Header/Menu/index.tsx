@@ -121,7 +121,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                <span>apple store</span>
+                                <span>App Store</span>
                                 <Icon name="apple" />
                             </a>
                             <a
@@ -130,7 +130,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                <span>google play</span>
+                                <span>Play Store</span>
                                 <Icon name="google-play" />
                             </a>
                         </div>

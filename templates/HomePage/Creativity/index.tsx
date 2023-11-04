@@ -11,8 +11,7 @@ const Creativity = ({}: CreativityProps) => (
         <div className={styles.head}>
             <div className={cn("h1", styles.title)}>Infinite Garden for GenAI</div>
             <div className={styles.info}>
-                Each web3 community is unique and deserves a custom marketplace
-                with its own look, features, fees.
+                Place where developers & creators can showcase, run and monetize their innovative generative AI models.
             </div>
         </div>
         <div className={styles.list}>

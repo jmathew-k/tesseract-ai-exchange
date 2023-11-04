@@ -60,7 +60,7 @@ const Card = ({ className, item, dark }: CardProps) => (
                     <div className={styles.price}>{item.bid}</div>
                 </div>
                 <div className={styles.box}>
-                    <div className={styles.text}>Model Runs</div>
+                    <div className={styles.text}>Total Runs</div>
                     <div className={styles.price}>{item.price}</div>
                 </div>
             </div>

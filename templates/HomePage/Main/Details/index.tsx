@@ -13,7 +13,7 @@ const Details = ({ collection, price, reserve }: DetailsProps) => (
             <div className={styles.value}>{collection}</div>
         </div>
         <div className={styles.item}>
-            <div className={styles.category}>Model Runs</div>
+            <div className={styles.category}>Total Runs</div>
             <div className={styles.value}>{price}</div>
         </div>
         <div className={styles.item}>

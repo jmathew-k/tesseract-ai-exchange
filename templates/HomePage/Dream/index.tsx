@@ -35,13 +35,13 @@ const Dream = ({}: DreamProps) => (
             <div className={cn("h1", styles.title)}>MPT-7B</div>
             <div className={styles.line}>
                 <div className={styles.box}>
-                    <div className={styles.text}>Buy now price</div>
-                    <div className={cn("h3", styles.crypto)}>8.00 ETH</div>
-                    <div className={styles.price}>$24,635.39</div>
+                    <div className={styles.text}>Total Runs</div>
+                    <div className={cn("h3", styles.crypto)}>89814</div>
+                    <div className={styles.price}>Language Model</div>
                 </div>
                 <Link href="/make-offer">
                     <a className={cn("button-white", styles.button)}>
-                        MAKE OFFER
+                        Demo
                     </a>
                 </Link>
             </div>

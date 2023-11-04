@@ -67,7 +67,7 @@ const BuyNowPage = () => {
             >
                 <>
                     <Details
-                        title="Model Runs"
+                        title="Total Runs"
                         content={
                             <>
                                 Confirm the transaction to buy{" "}

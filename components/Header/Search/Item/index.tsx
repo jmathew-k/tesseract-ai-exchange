@@ -25,12 +25,12 @@ const Item = ({ item }: ItemProps) => {
                     <div className={styles.title}>{item.title}</div>
                     {item.buy && (
                         <div className={styles.content}>
-                            <span>Model Runs</span> {item.buy}
+                            <span>Total Runs</span> {item.buy}
                         </div>
                     )}
                     {item.reserve && (
                         <div className={styles.content}>
-                            <span>Model Runs</span> {item.reserve}
+                            <span>Total Runs</span> {item.reserve}
                         </div>
                     )}
                     {item.login && (

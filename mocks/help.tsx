@@ -193,7 +193,7 @@ export const detail = [
         image: "/images/help-photo-3.jpg",
         content: (
             <>
-                <h3>Model Runsw</h3>
+                <h3>Total Runs</h3>
                 <p>
                 Tesseract is the one stop marketplace for discovering state of the art Generative AI models.
                 </p>

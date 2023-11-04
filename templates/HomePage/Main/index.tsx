@@ -9,7 +9,7 @@ const list = [
     {
         title: "QR Generator",
         collection: "qr2AI",
-        price: "2434",
+        price: "51473",
         reserve: "qrv2-gen",
         image: "/images/qr-ai.jpeg",
         color: "#BCE6EC",
