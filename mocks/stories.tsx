@@ -42,7 +42,7 @@ export const storiesGallery = [
     },
     {
         author: "Dash",
-        login: "randomdash",
+        login: "tron77",
         avatar: "/images/artists/artist-5.jpg",
         gallery: [
             "/images/story-5.jpg",
@@ -53,8 +53,8 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Dash",
-        login: "randomdash",
+        author: "Tron",
+        login: "tron77",
         avatar: "/images/artists/artist-1.jpg",
         gallery: [
             "/images/story-1.jpg",

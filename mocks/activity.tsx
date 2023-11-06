@@ -4,7 +4,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-1.jpg",
         fromLogin: "kohaku",
         toAvatar: "/images/artists/artist-2.jpg",
-        toLogin: "randomdash",
+        toLogin: "tron77",
         price: "1.0 ETH",
     },
     {
@@ -20,7 +20,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-5.jpg",
         fromLogin: "kohaku",
         toAvatar: "/images/artists/artist-6.jpg",
-        toLogin: "randomdash",
+        toLogin: "tron77",
         price: "12.44 ETH",
     },
     {
@@ -36,7 +36,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-1.jpg",
         fromLogin: "kohaku",
         toAvatar: "/images/artists/artist-2.jpg",
-        toLogin: "randomdash",
+        toLogin: "tron77",
         price: "3.33 ETH",
     },
 ];

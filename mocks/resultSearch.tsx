@@ -27,7 +27,7 @@ export const resultSearch = [
             },
             {
                 title: "The Currency",
-                login: "randomdash",
+                login: "tron77",
                 image: "/images/result-pic-1.jpg",
                 url: "/collection",
             },
@@ -38,7 +38,7 @@ export const resultSearch = [
         items: [
             {
                 title: "Dash",
-                login: "randomdash",
+                login: "tron77",
                 image: "/images/result-pic-2.jpg",
                 url: "/profile",
             },

@@ -41,7 +41,7 @@ const Main = ({}: MainProps) => (
     <>
         <div className={styles.row}>
             <div className={styles.col}>
-                <h1 className={cn("hero", styles.title)}>AI Model Exchange</h1>
+                <h1 className={cn("hero", styles.title)}>Infinite AI Garden</h1>
                 <Arrow className={styles.arrow} />
             </div>
             <div className={styles.col}>

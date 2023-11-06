@@ -24,7 +24,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "_kolahon",
+        login: "joe.colt",
         total: "229",
         avatar: "/images/artists/artist-5.jpg",
         url: "/profile",

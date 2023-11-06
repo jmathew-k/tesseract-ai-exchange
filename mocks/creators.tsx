@@ -15,7 +15,7 @@ export const creators = [
     },
     {
         name: "Dash",
-        login: "randomdash",
+        login: "tron77",
         sale: "15.64 ETH",
         avatar: "/images/artists/artist-3.jpg",
         url: "/profile",
@@ -28,8 +28,8 @@ export const creators = [
         url: "/profile",
     },
     {
-        name: "Dash",
-        login: "randomdash",
+        name: "Tron",
+        login: "tron77",
         sale: "7.68 ETH",
         avatar: "/images/artists/artist-5.jpg",
         url: "/profile",

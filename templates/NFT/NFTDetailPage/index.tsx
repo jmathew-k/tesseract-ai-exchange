@@ -7,8 +7,8 @@ const statistics = [
         label: "Created by",
         avatar: "/images/avatar.jpg",
         history: true,
-        title: "Dash",
-        login: "randomdash",
+        title: "Tron",
+        login: "tron77",
     },
     {
         label: "Collection",
