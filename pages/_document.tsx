@@ -18,14 +18,14 @@ class MyDocument extends Document {
                 <Head>
                     <meta
                         content="Tesseract is the one stop marketplace for discovering state of the art Generative AI models."
-                        name="Tesseract AI Marketplace"
+                        name="Tesseract "
                     />
                     <meta
-                        content="Tesseract AI Marketplace"
+                        content="Tesseract GenAI Exchange"
                         property="og:title"
                     />
                     <meta
-                        content="Tesseract AI Marketplace"
+                        content="Tesseract GenAI Exchange"
                         property="og:description"
                     />
                     <meta
@@ -38,10 +38,10 @@ class MyDocument extends Document {
                     />
                     <meta
                         property="og:site_name"
-                        content="Tesseract AI Marketplace"
+                        content="Tesseract GenAI Exchange"
                     />
                     <meta
-                        content="Tesseract AI Marketplace"
+                        content="Tesseract GenAI Exchange"
                         property="twitter:title"
                     />
                     <meta

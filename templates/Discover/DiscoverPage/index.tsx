@@ -35,7 +35,7 @@ const HomePage = () => {
             anchor: scrollToCollections,
         },
         {
-            title: "Artist",
+            title: "Creator",
             value: "artist",
             counter: "45,678",
             anchor: scrollToArtist,

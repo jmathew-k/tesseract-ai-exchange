@@ -4,7 +4,7 @@ import styles from "./ChooseWallet.module.sass";
 import Icon from "@/components/Icon";
 import Image from "@/components/Image";
 
-const tabs = ["Ethereum", "Flow", "Solana", "Polygon"];
+const tabs = ["Base", "Optimism", "Ethereum"];
 
 const wallets = [
     {
@@ -12,17 +12,14 @@ const wallets = [
         image: "/images/meta-mask.svg",
     },
     {
-        title: "WalletConnect",
-        image: "/images/wallet-connect.svg",
-    },
-    {
         title: "Coinbase Wallet",
         image: "/images/coin-base.svg",
     },
     {
-        title: "MyEtherWallet",
-        image: "/images/my-ether-wallet.svg",
+        title: "WalletConnect",
+        image: "/images/wallet-connect.svg",
     },
+
 ];
 
 type ChooseWalletProps = {

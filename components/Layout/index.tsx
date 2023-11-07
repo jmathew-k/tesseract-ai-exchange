@@ -40,7 +40,7 @@ const Layout = ({
     return (
         <>
             <Head>
-                <title>Tesseract - AI Marketplace</title>
+                <title>Tesseract - GenAI Exchange</title>
             </Head>
             <div
                 className={cn(styles.layout, {

@@ -13,7 +13,7 @@ const BlogDetailPage = () => {
                 classTitle="h1"
                 image="/images/blog-detail.jpg"
                 title="8 things you didn't know you could do on Tesseract"
-                info="Tesseract AI marketplace blog"
+                info="Tesseract GenAI Exchange blog"
             />
             <Article />
             <BlogList items={blogSlider} />
