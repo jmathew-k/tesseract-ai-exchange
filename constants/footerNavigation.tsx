@@ -11,7 +11,7 @@ export const footerNavigation = [
                 url: "/create",
             },
             {
-                title: "How it work",
+                title: "How does it work?",
                 url: "/blog/detail",
             },
         ],
@@ -37,22 +37,22 @@ export const footerNavigation = [
         title: "SOCIAL",
         menu: [
             {
-                title: "Instagram",
-                icon: "instagram",
-                external: true,
-                url: "https://www.instagram.com/tesseractxyz/",
-            },
-            {
                 title: "X",
-                icon: "twitter",
+                icon: "",
                 external: true,
-                url: "https://twitter.com/tesseract_xyz",
+                url: "https://twitter.com/tesseract_ai",
             },
             {
-                title: "Facebook",
-                icon: "facebook",
+                title: "Discord",
+                icon: "",
                 external: true,
-                url: "https://www.facebook.com/tesseractxyz/",
+                url: "https://discord.gg/sZU5UXntH6",
+            },
+            {
+                title: "Telegram",
+                icon: "",
+                external: true,
+                url: "https://t.me/+Zg7uCdL9lMU0Mzg1",
             },
         ],
     },
