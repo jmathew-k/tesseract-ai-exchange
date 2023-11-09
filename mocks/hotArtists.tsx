@@ -12,7 +12,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "gelo",
+        login: "wallE",
         total: "655 ETH",
         avatar: "/images/artists/artist-3.jpg",
         url: "/profile",

@@ -3,7 +3,7 @@ export const creativity = [
         content: (
             <>
                 <h2>
-                    Your model, <br></br>your way.
+                    Your model, <br></br>your rules.
                 </h2>
                 <p>
                     In Gen AI, creators are taking back ownership and control over
@@ -26,7 +26,7 @@ export const creativity = [
         content: (
             <>
                 <h2>
-                    Lowest <br></br>GPU fees
+                    Lowest <br></br>GPU running cost.
                 </h2>
                 <p>
                     Scalable Inference Infrastructure is critical for building a seamless experience.
@@ -43,15 +43,13 @@ export const creativity = [
     {
         content: (
             <>
-                <h2>Create together, earn together.</h2>
+                <h2>Collaborate together, earn together.</h2>
                 <p>
-                    Add a Split to your NFT to seamlessly pay creative
-                    collaborators—photographers, producers, choreographers,
-                    dancers, poets—and so on.
+                    Add a Split to your model  to seamlessly pay creative
+                    collaborators— scientists, engineers, photographers, producers, artists—and so on.
                 </p>
                 <p>
-                    You can also use Splits to donate directly to the causes you
-                    care about most. That’s the web3 way.
+                    You can codify percentage payouts for all creators of the model.
                 </p>
             </>
         ),
