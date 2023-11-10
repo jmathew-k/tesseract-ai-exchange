@@ -54,7 +54,7 @@ const Collection = ({ className, item }: CollectionProps) => {
                         </div>
                     </div>
                     <div className={styles.box}>
-                        <div className={styles.text}>Floor price</div>
+                        <div className={styles.text}>Runs</div>
                         <div className={cn("h4", styles.price)}>
                             {item.price}
                         </div>

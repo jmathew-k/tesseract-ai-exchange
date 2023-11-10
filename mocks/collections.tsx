@@ -1,7 +1,7 @@
 export const curatedCollections = [
     {
-        title: "Language models",
-        login: "rory-w0",
+        title: "Language Models",
+        login: "_spyder",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-7.jpg",
         images: [
@@ -17,9 +17,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Tesseract all-access",
-        login: "tron77",
-        price: "1.2 ETH",
+        title: "QR Generators",
+        login: "Katzgg",
+        price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [
             "/images/collection/image-4.jpg",
@@ -38,10 +38,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "2.4 ETH",
-        avatar: "/images/artists/artist-3.jpg",
+        title: "Stable Diffusion",
+        login: "m100x",
+        price: "89427",
+        avatar: "/images/artists/artist-6.jpg",
         images: [
             "/images/collection/image-7.jpg",
             "/images/collection/image-8.jpg",
@@ -63,9 +63,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "5.4 ETH",
+        title: "Game Assets",
+        login: "elna-freeze",
+        price: "553",
         avatar: "/images/artists/artist-4.jpg",
         images: [
             "/images/collection/image-10.jpg",

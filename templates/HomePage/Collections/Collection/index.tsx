@@ -45,7 +45,7 @@ const Collection = ({ item }: CollectionProps) => (
                     </div>
                 </div>
                 <div className={styles.box}>
-                    <div className={styles.text}>Floor price</div>
+                    <div className={styles.text}>Runs</div>
                     <div className={styles.price}>{item.price}</div>
                 </div>
             </div>

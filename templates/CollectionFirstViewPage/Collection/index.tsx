@@ -15,7 +15,7 @@ const detailsList = [
         value: "1",
     },
     {
-        label: "Floor price",
+        label: "Runs",
         value: "-",
     },
     {
