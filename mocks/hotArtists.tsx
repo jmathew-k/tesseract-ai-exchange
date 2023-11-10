@@ -18,7 +18,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "elna-freeze",
+        login: "elna-frozt",
         total: "529",
         avatar: "/images/artists/artist-4.jpg",
         url: "/profile",

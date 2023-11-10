@@ -2,7 +2,7 @@ export const curatedCollections = [
     {
         title: "Language Models",
         login: "_spyder",
-        price: "1.0 ETH",
+        price: "136364",
         avatar: "/images/artists/artist-7.jpg",
         images: [
             "/images/collection/image-1.jpg",
@@ -38,7 +38,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Stable Diffusion",
+        title: "Stable Diffusors",
         login: "m100x",
         price: "89427",
         avatar: "/images/artists/artist-6.jpg",
@@ -64,7 +64,7 @@ export const curatedCollections = [
     },
     {
         title: "Game Assets",
-        login: "elna-freeze",
+        login: "elna-frozt",
         price: "553",
         avatar: "/images/artists/artist-4.jpg",
         images: [
@@ -81,10 +81,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
-        login: "tranmautritam",
-        price: "1.0 ETH",
-        avatar: "/images/artists/artist-1.jpg",
+        title: "Language Models",
+        login: "_spyder",
+        price: "136364",
+        avatar: "/images/artists/artist-7.jpg",
         images: [
             "/images/collection/image-1.jpg",
             "/images/collection/image-2.jpg",
@@ -98,9 +98,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Tesseract all-access",
-        login: "tron77",
-        price: "1.2 ETH",
+        title: "QR Generators",
+        login: "Katzgg",
+        price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [
             "/images/collection/image-4.jpg",
@@ -119,10 +119,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "2.4 ETH",
-        avatar: "/images/artists/artist-3.jpg",
+        title: "Stable Diffusors",
+        login: "m100x",
+        price: "89427",
+        avatar: "/images/artists/artist-6.jpg",
         images: [
             "/images/collection/image-7.jpg",
             "/images/collection/image-8.jpg",
@@ -144,9 +144,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "5.4 ETH",
+        title: "Game Assets",
+        login: "elna-frozt",
+        price: "553",
         avatar: "/images/artists/artist-4.jpg",
         images: [
             "/images/collection/image-10.jpg",
@@ -162,10 +162,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
-        login: "tranmautritam",
-        price: "1.0 ETH",
-        avatar: "/images/artists/artist-1.jpg",
+        title: "Language Models",
+        login: "_spyder",
+        price: "136364",
+        avatar: "/images/artists/artist-7.jpg",
         images: [
             "/images/collection/image-1.jpg",
             "/images/collection/image-2.jpg",
@@ -179,9 +179,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Tesseract all-access",
-        login: "tron77",
-        price: "1.2 ETH",
+        title: "QR Generators",
+        login: "Katzgg",
+        price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [
             "/images/collection/image-4.jpg",
@@ -200,10 +200,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "2.4 ETH",
-        avatar: "/images/artists/artist-3.jpg",
+        title: "Stable Diffusors",
+        login: "m100x",
+        price: "89427",
+        avatar: "/images/artists/artist-6.jpg",
         images: [
             "/images/collection/image-7.jpg",
             "/images/collection/image-8.jpg",
@@ -225,9 +225,9 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
-        login: "tron77",
-        price: "5.4 ETH",
+        title: "Game Assets",
+        login: "elna-frozt",
+        price: "553",
         avatar: "/images/artists/artist-4.jpg",
         images: [
             "/images/collection/image-10.jpg",
@@ -243,10 +243,10 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
-        login: "tranmautritam",
-        price: "1.0 ETH",
-        avatar: "/images/artists/artist-1.jpg",
+        title: "Language Models",
+        login: "_spyder",
+        price: "136364",
+        avatar: "/images/artists/artist-7.jpg",
         images: [
             "/images/collection/image-1.jpg",
             "/images/collection/image-2.jpg",
