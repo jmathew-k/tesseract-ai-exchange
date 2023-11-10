@@ -77,12 +77,13 @@ const Auctions = ({ color, items }: AuctionsProps) => (
                                             {item.price}
                                         </div>
                                     </div>
-                                    <div className={styles.box}>
+                                    {/* Auction Timer */}
+                                    {/* <div className={styles.box}>
                                         <div className={styles.category}>
                                             Auction ends in
                                         </div>
                                         <TimeCounter time={item.timeHours} />
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </a>

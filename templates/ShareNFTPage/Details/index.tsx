@@ -27,7 +27,7 @@ const Details = ({}: DetailsProps) => (
             </div>
             <div className={styles.wrap}>
                 <div className={styles.subtitle}>Cute Planet</div>
-                <div className={styles.price}>12 NFTs</div>
+                <div className={styles.price}>12 Models</div>
             </div>
             <div className={styles.lines}></div>
         </div>

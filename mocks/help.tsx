@@ -1,13 +1,13 @@
 export const help = [
     {
-        title: "Gettings started on Tesseract",
+        title: "Get started with Tesseract",
         content: "Learn how to create and collect artwork",
         image: "/images/help-pic-1.png",
         color: "#B9A9FB",
         url: "/help/category",
     },
     {
-        title: "Create Collection & NFTs",
+        title: "Create a Model",
         content: "Learn how to create and collect artwork",
         image: "/images/help-pic-2.png",
         color: "#FFA6D6",
@@ -45,7 +45,7 @@ export const categories = [
                 url: "/help/detail",
             },
             {
-                title: "Guide to collection NFT artworks on Tesseract",
+                title: "Guide to create a model",
                 url: "/help/detail",
             },
             {
@@ -70,7 +70,7 @@ export const categories = [
                 url: "/help/detail",
             },
             {
-                title: "Guide to collection NFT artworks on Tesseract",
+                title: "Guide to create a model",
                 url: "/help/detail",
             },
             {
@@ -95,7 +95,7 @@ export const categories = [
                 url: "/help/detail",
             },
             {
-                title: "Guide to collection NFT artworks on Tesseract",
+                title: "Guide to create a model on Tesseract",
                 url: "/help/detail",
             },
             {
@@ -120,7 +120,7 @@ export const categories = [
                 url: "/help/detail",
             },
             {
-                title: "Guide to collection NFT artworks on Tesseract",
+                title: "Guide to create a model on Tesseract",
                 url: "/help/detail",
             },
             {
@@ -144,7 +144,7 @@ export const detail = [
         image: "/images/help-photo-1.jpg",
         content: (
             <>
-                <h3>Guide to collection NFT artworks on Tesseract</h3>
+                <h3>Guide to create a model on Tesseract</h3>
                 <p>
                 Tesseract is the one stop marketplace for discovering state of the art Generative AI models.
                 </p>
@@ -181,7 +181,7 @@ export const detail = [
                 </p>
                 <ul>
                     <li>Connect your wallet to Tesseract</li>
-                    <li>Guide to collection NFT artworks on Tesseract</li>
+                    <li>Guide to create a model on Tesseract</li>
                     <li>Marketplace balance</li>
                     <li>Marketplace fees</li>
                     <li>What is offer price?</li>
@@ -203,7 +203,7 @@ export const detail = [
                 </p>
                 <ul>
                     <li>Connect your wallet to Tesseract</li>
-                    <li>Guide to collection NFT artworks on Tesseract</li>
+                    <li>Guide to create a model on Tesseract</li>
                     <li>Marketplace balance</li>
                     <li>Marketplace fees</li>
                     <li>What is offer price?</li>

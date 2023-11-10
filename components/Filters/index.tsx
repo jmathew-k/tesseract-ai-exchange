@@ -26,7 +26,7 @@ const Filters = ({ statuses, dark }: FiltersProps) => {
                 <Form
                     className={styles.form}
                     inputClassName={styles.formInput}
-                    placeholder="Search by NFTs"
+                    placeholder="Search by Models"
                     value={email}
                     setValue={setEmail}
                     onSubmit={() => console.log("Submit")}

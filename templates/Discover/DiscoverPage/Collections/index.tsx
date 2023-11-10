@@ -15,8 +15,8 @@ const Collections = ({ scrollToRef }: CollectionsProps) => {
 
     const tabs = [
         {
-            title: "1 days",
-            value: "1-days",
+            title: "24 hours",
+            value: "24-hours",
         },
         {
             title: "7 days",

@@ -41,10 +41,10 @@ const ShareNFTPage = () => {
                         </div>
                         <div className={styles.col}>
                             <div className={cn("h1", styles.title)}>
-                                Share this NFT
+                                Share this Model
                             </div>
                             <div className={styles.info}>
-                                Share this NFT with your social Community
+                                Share this Model with your social Community
                             </div>
                             <div className={styles.socials}>
                                 {socials.map((social, index) => (

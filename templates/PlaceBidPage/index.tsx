@@ -90,7 +90,7 @@ const PlaceBidPage = () => {
                             <>
                                 <p>
                                     Placing this bid will start a 24 hour
-                                    auction for the NFT.
+                                    auction for the Model.
                                 </p>
                                 <p>
                                     Once a bid is placed, it cannot be

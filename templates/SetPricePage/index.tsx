@@ -81,7 +81,7 @@ const MintNFTPage = () => {
                                 <>
                                     <p>
                                         Buyers will be able to instantly buy the
-                                        NFT.
+                                        Model.
                                     </p>
                                     <p>You may edit this price at any time.</p>
                                 </>
@@ -111,7 +111,7 @@ const MintNFTPage = () => {
                                 <>
                                     <p>
                                         Buyers will be able to instantly buy the
-                                        NFT.
+                                        Model.
                                     </p>
                                     <p>You may edit this price at any time.</p>
                                 </>
