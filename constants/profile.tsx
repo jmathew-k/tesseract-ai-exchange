@@ -1,11 +1,11 @@
 export const links = [
     {
-        title: "tesseractxyz.com",
+        title: "katqx.net",
         icon: "country",
         url: "https://tesseractxyz.com/",
     },
     {
-        title: "mirror.xyz/tesseract_xyz",
+        title: "mirror.xyz/katqx",
         icon: "link",
         url: "https://mirror.xyz/joshkmatt.eth",
     },

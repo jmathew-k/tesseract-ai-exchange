@@ -6,7 +6,7 @@ export const artists = [
         follow: false,
     },
     {
-        login: "Katzgg",
+        login: "Zia-gg",
         avatar: "/images/artists/artist-6.jpg",
         price: "12.29 ETH",
         follow: false,

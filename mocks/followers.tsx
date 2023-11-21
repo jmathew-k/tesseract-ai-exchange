@@ -9,8 +9,8 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Katzgg",
-        login: "Katz2",
+        name: "Zia-gg",
+        login: "Ziav2",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 Models",
         follow: false,

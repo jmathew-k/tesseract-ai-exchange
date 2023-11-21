@@ -24,7 +24,7 @@ const Contacts = ({ links, socials }: ContactsProps) => (
             <div className={styles.item}>
                 <div className={styles.category}>bio</div>
                 <div className={styles.content}>
-                Tesseract is the one stop marketplace for discovering state of the art Generative AI models.
+                AI Engineer at Startup. Passionate about intersection of computational biology and AI.
             </div>
             </div>
             <div className={styles.item}>

@@ -28,35 +28,35 @@ const Profile = ({}: ProfileProps) => {
         {
             title: "Total runs",
             value: "total-sales",
-            counter: "96 ETH",
+            counter: "9647637",
         },
         {
             title: "Following",
             value: "following",
-            counter: "1,920",
+            counter: "190",
             onClick: () => setSortingFollowers("following"),
         },
         {
             title: "Followers",
             value: "followers",
-            counter: "2,880",
+            counter: "2280",
             onClick: () => setSortingFollowers("followers"),
         },
     ];
 
     const tabsTokens = [
         {
-            title: "Created",
+            title: "Models",
             value: "created",
             counter: "256",
         },
         {
-            title: "Collections",
+            title: "DAO Models",
             value: "collections",
             counter: "4",
         },
         {
-            title: "Owners",
+            title: "DAO Members",
             value: "owners",
             counter: "16",
             onClick: () => setTheme(false),

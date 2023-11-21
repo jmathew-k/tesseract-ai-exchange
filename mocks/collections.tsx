@@ -18,7 +18,7 @@ export const curatedCollections = [
     },
     {
         title: "QR Generators",
-        login: "Katzgg",
+        login: "Zia-gg",
         price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -99,7 +99,7 @@ export const curatedCollections = [
     },
     {
         title: "QR Generators",
-        login: "Katzgg",
+        login: "Zia-gg",
         price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -180,7 +180,7 @@ export const curatedCollections = [
     },
     {
         title: "QR Generators",
-        login: "Katzgg",
+        login: "Zia-gg",
         price: "7489",
         avatar: "/images/artists/artist-2.jpg",
         images: [

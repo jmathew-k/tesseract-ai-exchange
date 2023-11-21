@@ -6,7 +6,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "Katzgg",
+        login: "Zia-gg",
         total: "935",
         avatar: "/images/artists/artist-2.jpg",
         url: "/profile",
